@@ -24,3 +24,6 @@ To-Do-App is a user-friendly designed to help you stay organized and focused. Bu
 
 ## Result:
 <a href="https://github.com/LalithaPoojitha/To-Do-App/blob/main/Screenshot%202025-06-07%20010618.png">To-Do-App Output </a>
+
+## Conclusion:
+our To-Do App is a powerful tool designed to help individuals and organizations stay organized and focused.
