@@ -1,2 +1,2 @@
 # To-Do-App
-Built using HTML, CSS, and JavaScript, this app allows you to create and manage your tasks with ease.
+To-Do-App is a user-friendly designed to help you stay organized and focused. Built using HTML, CSS, and JavaScript, this app allows you to create, edit, and manage your tasks with ease.
